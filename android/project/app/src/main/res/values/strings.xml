@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="john">john</string>
+    <string name="hello">hello</string>
+    <string name="Search">Search</string>
+    <string name="Hello">Hello</string>
+    <string name="goals">goals</string>
+    <string name="finance">finance</string>
+    <string name="heath">heath</string>
+    <string name="house">house</string>
+    <string name="favorite">favorite</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet efficitur urna. Sed rhoncus blandit quam, et commodo massa mollis et. Curabitur ullamcorper non ante a faucibus. Sed feugiat vulputate dolor eu rhoncus. Nullam sit amet lectus gravida, gravida nisi vel, tincidunt leo</string>
+    <string name="home">home</string>
+    <string name="account">account</string>
+    <string name="setting">setting</string>
+</resources>
